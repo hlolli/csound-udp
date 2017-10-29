@@ -1,6 +1,6 @@
 {
   "name": "csound-udp",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Wrapper for csound UDP messages",
     "main": "index.js",
     "scripts": {
@@ -10,5 +10,9 @@
 	"csound"
     ],
     "author": "Hlöðver Sigurðsson",
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/hlolli/csound-udp"
+    }
 }
