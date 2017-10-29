@@ -1,6 +1,6 @@
 # Useage
 ```js
-const csound_udp = require('csound_udp');
+const csound_udp = require('csound-udp');
 
 //This starts a csound instance on port 6006 (optional)
 csound_udp.spawnCsound(6006);
